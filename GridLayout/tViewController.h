@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface tViewController : UIViewController
+#import "CustomizationScreen1.h"
+#import "ObtainChoices.h"
+#import "LabelforBeverageName.h"
+#import "Data.h"
+@interface tViewController : UICollectionViewController
+@property(weak,nonatomic)IBOutlet UINavigationItem *ni;
+@property(weak,nonatomic)IBOutlet UIButton *nextButton;
+-(IBAction)nextButtonPressed;
 
 @end

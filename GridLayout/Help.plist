@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>IMP: In the screens 2 and 3 although your choices will not be shown highlighted at the same time but they will get selected</string>
+	<string>1. Chose your beverage</string>
+	<string>2.Choose the size and kind of mik you want</string>
+	<string>3.Choose the syrups,expresso (i.e. decaf,half caf,regular), expresso Shots</string>
+	<string>4.And your order is ready. All you need to is show the barrista your order from the QRCode generated with no confusion in order</string>
+</array>
+</plist>
